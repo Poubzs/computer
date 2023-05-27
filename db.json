@@ -45,49 +45,6 @@
     },
     {
         "marque": "Azuss",
-        "nom": "ZunBook 13",
-        "type": "portable",
-        "ecran": {
-            "taille": 13,
-            "type": "IPS",
-            "dpi": 200
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": true,
-            "type": "azerty",
-            "pave-num": false
-        },
-        "system": {
-            "ram": 16,
-            "cpu": {
-                "marque":"INTELLE",
-                "nom": "X7 770Y",
-                "score": 7500,
-                "core": 4,
-                "frequence-max": 3600,
-                "tdp": 12
-            },
-            "hdd": {
-                "capacite": 1024,
-                "type": "mvne",
-                "rpm": null,
-                "vitesse-transfert": 3000
-            },
-            "cg": {
-                "marque": "INTELLE",
-                "modele": "HD IRIS",
-                "score": 1500
-            }
-        },
-        "batterie" : {
-            "capacite": 55,
-            "autonomie": 10
-        },
-        "prix": 1200
-    },   
-    {
-        "marque": "Azuss",
         "nom": "ZunBook 12",
         "type": "portable",
         "ecran": {
@@ -168,49 +125,6 @@
         },
         "batterie" : {
             "capacite": 58,
-            "autonomie": 4
-        },
-        "prix": 700
-    },
-    {
-        "marque": "Azuss",
-        "nom": "VivaBook 14",
-        "type": "portable",
-        "ecran": {
-            "taille": 14,
-            "type": "TN",
-            "dpi": 90
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": false,
-            "type": "azerty",
-            "pave-num": false
-        },
-        "system": {
-            "ram": 8,
-            "cpu": {
-                "marque":"INTELLE",
-                "nom": "X3 300",
-                "score": 5200,
-                "core": 2,
-                "frequence-max": 3400,
-                "tdp": 15
-            },
-            "hdd": {
-                "capacite": 512,
-                "type": "ssd",
-                "rpm": null,
-                "vitesse-transfert": 400
-            },
-            "cg": {
-                "marque": "INTELLE",
-                "modele": "HD 9000",
-                "score": 395
-            }
-        },
-        "batterie" : {
-            "capacite": 45,
             "autonomie": 4
         },
         "prix": 700
