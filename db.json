@@ -45,49 +45,6 @@
     },
     {
         "marque": "Azuss",
-        "nom": "VivaBook 15",
-        "type": "portable",
-        "ecran": {
-            "taille": 15,
-            "type": "TN",
-            "dpi": 72
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": false,
-            "type": "azerty",
-            "pave-num": true
-        },
-        "system": {
-            "ram": 16,
-            "cpu": {
-                "marque":"INTELLE",
-                "nom": "X5 550",
-                "score": 7900,
-                "core": 4,
-                "frequence-max": 3600,
-                "tdp": 25
-            },
-            "hdd": {
-                "capacite": 2048,
-                "type": "hdd",
-                "rpm": 7200,
-                "vitesse-transfert": 100
-            },
-            "cg": {
-                "marque": "INTELLE",
-                "modele": "HD 9000",
-                "score": 395
-            }
-        },
-        "batterie" : {
-            "capacite": 58,
-            "autonomie": 4
-        },
-        "prix": 700
-    },
-    {
-        "marque": "Azuss",
         "nom": "VivaBook 11",
         "type": "portable",
         "ecran": {
