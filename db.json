@@ -45,49 +45,6 @@
     },
     {
         "marque": "Azuss",
-        "nom": "ZunBook 12",
-        "type": "portable",
-        "ecran": {
-            "taille": 12,
-            "type": "IPS",
-            "dpi": 100
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": true,
-            "type": "azerty",
-            "pave-num": false
-        },
-        "system": {
-            "ram": 16,
-            "cpu": {
-                "marque":"INTELLE",
-                "nom": "X5 550Y",
-                "score": 6500,
-                "core": 4,
-                "frequence-max": 3600,
-                "tdp": 10
-            },
-            "hdd": {
-                "capacite": 256,
-                "type": "mvne",
-                "rpm": null,
-                "vitesse-transfert": 3000
-            },
-            "cg": {
-                "marque": "INTELLE",
-                "modele": "HD IRIS",
-                "score": 1500
-            }
-        },
-        "batterie" : {
-            "capacite": 45,
-            "autonomie": 8
-        },
-        "prix": 900
-    },  
-    {
-        "marque": "Azuss",
         "nom": "VivaBook 15",
         "type": "portable",
         "ecran": {
