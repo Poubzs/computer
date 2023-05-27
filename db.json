@@ -1,5 +1,4 @@
-[
-    {
+{
         "marque": "ASSER",
         "nom": "Respire TC10",
         "type": "fixe",
@@ -29,91 +28,4 @@
         },
         "batterie" : null,
         "prix": 1000
-    },  
-    {
-        "marque": "ROJ",
-        "nom": "Flow Z13",
-        "type": "portable",
-        "ecran": {
-            "taille": 13,
-            "type": "TN",
-            "dpi": 100
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": true,
-            "type": "azerty",
-            "pave-num": false
-        },
-        "system": {
-            "ram": 16,
-            "cpu": {
-                "marque":"AMDé",
-                "nom": "B7 5000",
-                "score": 17000,
-                "core": 8,
-                "frequence-max": 4400,
-                "tdp": 45
-            },
-            "hdd": {
-                "capacite": 2048,
-                "type": "mvne",
-                "rpm": null,
-                "vitesse-transfert": 3000
-            },
-            "cg": {
-                "marque": "NVADIA",
-                "modele": "RTZ 3060",
-                "score": 12000
-            }
-        },
-        "batterie" : {
-            "capacite": 55,
-            "autonomie": 4
-        },
-        "prix": 1500
-    },
-    {
-        "marque": "Azuss",
-        "nom": "VivaBook 11",
-        "type": "portable",
-        "ecran": {
-            "taille": 11,
-            "type": "TN",
-            "dpi": 72
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": false,
-            "type": "azerty",
-            "pave-num": false
-        },
-        "system": {
-            "ram": 4,
-            "cpu": {
-                "marque":"INTELLE",
-                "nom": "ATAUM",
-                "score": 1250,
-                "core": 2,
-                "frequence-max": 1900,
-                "tdp": 5
-            },
-            "hdd": {
-                "capacite": 256,
-                "type": "mmc",
-                "rpm": null,
-                "vitesse-transfert": 50
-            },
-            "cg": {
-                "marque": "INTELLE",
-                "modele": "HD 9000",
-                "score": 395
-            }
-        },
-        "batterie" : {
-            "capacite": 35,
-            "autonomie": 5
-        },
-        "prix": 400
     }
-]
