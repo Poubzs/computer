@@ -2,49 +2,6 @@
   "posts": [       
     {
         "marque": "ROJ",
-        "nom": "Flow Z15",
-        "type": "portable",
-        "ecran": {
-            "taille": 15,
-            "type": "TN",
-            "dpi": 100
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": true,
-            "type": "azerty",
-            "pave-num": true
-        },
-        "system": {
-            "ram": 32,
-            "cpu": {
-                "marque":"AMDé",
-                "nom": "B9 5000",
-                "score": 20000,
-                "core": 10,
-                "frequence-max": 4400,
-                "tdp": 45
-            },
-            "hdd": {
-                "capacite": 3840,
-                "type": "mvne",
-                "rpm": null,
-                "vitesse-transfert": 3000
-            },
-            "cg": {
-                "marque": "NVADIA",
-                "modele": "RTZ 3080",
-                "score": 20000
-            }
-        },
-        "batterie" : {
-            "capacite": 65,
-            "autonomie": 3
-        },
-        "prix": 1700
-    },      
-    {
-        "marque": "ROJ",
         "nom": "Flow Z13",
         "type": "portable",
         "ecran": {
