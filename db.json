@@ -1,48 +1,5 @@
 {
-  "posts": [    
-    {
-        "marque": "ASSER",
-        "nom": "Swif 14",
-        "type": "portable",
-        "ecran": {
-            "taille": 14,
-            "type": "IPS",
-            "dpi": 100
-        },
-        "clavier": {
-            "chiclet": true,
-            "retroeclairage": false,
-            "type": "azerty",
-            "pave-num": false
-        },
-        "system": {
-            "ram": 16,
-            "cpu": {
-                "marque":"AMDé",
-                "nom": "B3 500",
-                "score": 7000,
-                "core": 4,
-                "frequence-max": 4000,
-                "tdp": 15
-            },
-            "hdd": {
-                "capacite": 1024,
-                "type": "ssd",
-                "rpm": null,
-                "vitesse-transfert": 300
-            },
-            "cg": {
-                "marque": "NVADIA",
-                "modele": "RTZ 3050",
-                "score": 6500
-            }
-        },
-        "batterie" : {
-            "capacite": 55,
-            "autonomie": 4
-        },
-        "prix": 800
-    },      
+  "posts": [       
     {
         "marque": "ROJ",
         "nom": "Flow Z15",
